@@ -1,0 +1,12 @@
+org\acme\maintenancescheduling\enums\Priority.class
+org\acme\maintenancescheduling\domain\Developer.class
+org\acme\maintenancescheduling\domain\MaintenanceSchedule.class
+org\acme\maintenancescheduling\enums\Type.class
+org\acme\maintenancescheduling\rest\exception\ErrorInfo.class
+org\acme\maintenancescheduling\rest\exception\MaintenanceScheduleSolverExceptionMapper.class
+org\acme\maintenancescheduling\enums\Status.class
+org\acme\maintenancescheduling\solver\MaintenanceScheduleConstraintProvider.class
+org\acme\maintenancescheduling\domain\WorkCalendar.class
+org\acme\maintenancescheduling\domain\Task.class
+org\acme\maintenancescheduling\rest\exception\MaintenanceScheduleSolverException.class
+org\acme\maintenancescheduling\enums\Resolution.class

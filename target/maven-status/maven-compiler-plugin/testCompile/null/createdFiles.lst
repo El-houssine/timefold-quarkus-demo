@@ -1,0 +1,2 @@
+org\acme\maintenancescheduling\rest\MaintenanceScheduleResourceTest.class
+org\acme\maintenancescheduling\solver\MaintenanceSchedulingConstraintProviderTest.class
